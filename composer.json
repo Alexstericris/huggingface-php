@@ -1,5 +1,5 @@
 {
-    "name": "kambo/huggingface-php",
+    "name": "alexstericris/huggingface-php",
     "description": "",
     "keywords": [],
     "license": "MIT",
@@ -10,12 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8.1.0",
-        "php-http/discovery": "^1.15.3",
-        "psr/http-client": "^1.0.2",
-        "psr/http-client-implementation": "^1.0.1",
-        "psr/http-factory-implementation": "*",
-        "psr/http-message": "^1.1.0"
+        "php": "^8.1.0|^8.2|^8.3|^8.4"
     },
     "require-dev": {
         "guzzlehttp/guzzle": "^7.5.1",
